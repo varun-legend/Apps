@@ -1,1 +1,4 @@
-
+v1.0 is working well but needs some additional options to make it better
+it doesn't support external subtitles 
+it doesn't have custom controls
+its xml needs jetpack compose 
