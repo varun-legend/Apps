@@ -1,30 +1,32 @@
 # 🎧 WebVPlayer
 
-A modern web-based audio player with a slick UI, built for streaming tracks directly from GitHub repos.  
+A modern app-based audio player with a slick UI, built for streaming tracks directly from GitHub repos.  
 Fast. Flexible. Minimalist. Just press play.
 
 [![Made by Varun Prasath](https://img.shields.io/badge/Made%20by-Varun%20Prasath-blueviolet?style=flat-square)](https://varunprasath.web.app)
-[![Built with HTML, CSS & JS](https://img.shields.io/badge/Built%20with-HTML%2C%20CSS%20%26%20JavaScript-orange?style=flat-square)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](./LICENSE)
+[![Built with Kotlin, ExoPlayer, Retrofit](https://img.shields.io/badge/Built%20with-Kotlin%2C%20ExoPlayer%2C%20Retrofit-orange?style=flat-square)](#)
+[![License: Closed Source](https://img.shields.io/badge/License-Closed%20Source-lightgrey?style=flat-square)](#)
 
 ---
 
 ## 🚀 Features
 
-- 🎵 Stream music directly from GitHub repos using GitHub API
-- 🧠 Smart GitHubService with Retrofit-style repo browsing
-- 📁 Dynamic folder navigation & file fetching
-- 💡 Simple, clean interface for distraction-free listening
-- 🌐 Fully browser-based – no installs needed!
+- 🎵 Stream music directly from GitHub repos using the GitHub Raw API
+- 🧠 Smart Retrofit-powered GitHubService for seamless repo browsing
+- 📁 Dynamic folder navigation with recursive file listing
+- 🎛️ Built-in ExoPlayer with custom UI controls
+- ⚡ Smooth, responsive, and distraction-free listening experience
+- 📱 Android App (not a web player!)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **API:** GitHub REST API v3
-- **Player UI:** Custom Web Audio interface
-- **Data Source:** GitHub repo contents as track list
+- **Language:** Kotlin
+- **Media Player:** [ExoPlayer](https://exoplayer.dev/)
+- **Networking:** Retrofit + GitHub REST API
+- **Architecture:** MVVM (optional, if used)
+- **Source:** Public GitHub repositories as music source
 
 ---
 
