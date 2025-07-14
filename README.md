@@ -27,7 +27,3 @@ Fast. Flexible. Minimalist. Just press play.
 - **Networking:** Retrofit + GitHub REST API
 - **Architecture:** MVVM (optional, if used)
 - **Source:** Public GitHub repositories as music source
-
----
-
-## 📂 Project Structure
