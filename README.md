@@ -25,5 +25,5 @@ Fast. Flexible. Minimalist. Just press play.
 - **Language:** Kotlin
 - **Media Player:** [ExoPlayer](https://exoplayer.dev/)
 - **Networking:** Retrofit + GitHub REST API
-- **Architecture:** MVVM (optional, if used)
+- **Architecture:** MVVM
 - **Source:** Public GitHub repositories as music source
